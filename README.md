@@ -249,7 +249,7 @@ The Tang Nano 20K version is a bit more convoluted to install. We need to reconf
 
 First using the programmer flash this LITEX on the board:
 
-[Tang Nano 20K LITEX](fpga/tn_vdp_v3_v9958/res/pnr/tang_nano_20k_litex.fs)
+[Tang Nano 20K LITEX](fpga/tn_vdp_v3_v9958/res/tang_nano_20k_litex.fs)
 
 Disconnect and re-connect to your PC.
 
